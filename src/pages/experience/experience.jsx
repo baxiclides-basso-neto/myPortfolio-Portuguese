@@ -54,7 +54,7 @@ const Experience = () => {
           <h4 className="vertical-timeline-element-subtitle">
             Americana, Brazil
           </h4>
-          <p>laboração de petições, pesquisas, atendimento a clientes.</p>
+          <p>Elaboração de petições, pesquisas, atendimento a clientes.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
