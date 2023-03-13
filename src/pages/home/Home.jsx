@@ -11,7 +11,7 @@ const Home = () => {
       <div className="about">
         <h2>Olá, me chamo Baxiclides Neto,</h2>
         <div className="prompt">
-          <p>Sou um Densenvolvedor Web apaixonado por aprender e criar novas soluções, sempre procurando expandir os meus conhecimentos.</p>
+          <p>Sou um Desenvolvedor Web apaixonado por aprender e criar novas soluções, sempre procurando expandir os meus conhecimentos.</p>
           <Link to="mailto:baxnetodev@gmail.com" target="_blank">
             <EmailIcon />
           </Link>
@@ -30,7 +30,7 @@ const Home = () => {
             <h2>Front-End</h2>
             <span>
               ReactJS, HMTL, CSS, StyledComponents, TAilwindCSS, MterialUI, NPM,
-              YARN, Git, GitHub, Figma{" "}
+              YARN, Git, GitHub, Figma
             </span>
             <h2>Languages</h2>
             <span>JavaScript and TypeScript</span>
