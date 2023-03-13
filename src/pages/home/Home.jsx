@@ -9,9 +9,9 @@ const Home = () => {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi, my name´s Baxiclides Neto,</h2>
+        <h2>Olá, me chamo Baxiclides Neto,</h2>
         <div className="prompt">
-          <p>I am a web developer passionate about learning and creating new solutions, always seeking to expand my knowledge.</p>
+          <p>Sou um Densenvolvedor Web apaixonado por aprender e criar novas soluções, sempre procurando expandir os meus conhecimentos.</p>
           <Link to="mailto:baxnetodev@gmail.com" target="_blank">
             <EmailIcon />
           </Link>
