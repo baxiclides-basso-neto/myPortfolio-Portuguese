@@ -8,7 +8,7 @@ import { ProjectsList } from '../../helpers/ProjectList';
 function Projects() {
   return (
     <div className="projects">
-      <h1> My Personal Projects</h1>
+      <h1>Projetos pessoais</h1>
       <div className="projectList">
         {ProjectsList.map((project) => {
           return (

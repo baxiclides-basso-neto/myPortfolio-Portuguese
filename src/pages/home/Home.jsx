@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="about">
-        <h2>Olá, me chamo Baxiclides Neto,</h2>
+        <h2>Olá, me chamo Baxiclides Neto</h2>
         <div className="prompt">
           <p>Sou um Desenvolvedor Web apaixonado por aprender e criar novas soluções, sempre procurando expandir os meus conhecimentos.</p>
           <Link to="mailto:baxnetodev@gmail.com" target="_blank">
@@ -24,7 +24,7 @@ const Home = () => {
         </div>
       </div>
       <div className="skills">
-        <h1>Skills</h1>
+        <h1>Tecnologias</h1>
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
