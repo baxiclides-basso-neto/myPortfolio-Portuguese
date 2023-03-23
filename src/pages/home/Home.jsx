@@ -29,7 +29,7 @@ const Home = () => {
           <li className="item">
             <h2>Front-End</h2>
             <span>
-              ReactJS, HMTL, CSS, StyledComponents, TAilwindCSS, MterialUI, NPM,
+              ReactJS, NextJS, HMTL, CSS, StyledComponents, TAilwindCSS, MterialUI, NPM,
               YARN, Git, GitHub, Figma
             </span>
             <h2>Languages</h2>
