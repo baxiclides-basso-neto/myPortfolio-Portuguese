@@ -21,7 +21,9 @@
 }
 
 .project img:hover {
-  transform: scale(1.1); /* Adicione esta linha para aumentar o tamanho em 10% ao passar o mouse */
+  transform: scale(
+    1.1
+  ); /* Adicione esta linha para aumentar o tamanho em 10% ao passar o mouse */
 }
 
 .project p {
